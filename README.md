@@ -20,23 +20,54 @@ I enjoy building real-world analytics projects, exploring datasets, and developi
 
 **Currently Exploring:** Machine Learning, Data Science, AI Agents
 
-### 🚀 Featured Project
 
-#### Blinkit Sales & Delivery Analytics | Power BI
+### 🚀 Featured Analytics Projects
 
-Developed a five-page interactive Power BI dashboard to analyze grocery sales, customer behavior, product performance, delivery efficiency, and business growth.
+#### 🛒 Blinkit Sales & Delivery Analytics | Power BI
 
-**Project Highlights:**
+Developed a five-page Power BI dashboard to analyze grocery sales, customer behavior, product performance, delivery efficiency, and business growth.
+
+**Key Highlights:**
 - Total Revenue: ₹47.5 lakh
 - Total Orders: 10K
 - Items Sold: 19K
-- Average Order Value: ₹475.26
 - Average Customer Rating: 4.47
 - Average Delivery Time: 17.96 minutes
 
-**Dashboard Pages:** Overview, Product Analysis, Customer Analysis, Delivery Performance, Business Insights
+[View Blinkit Project](https://github.com/ditya0101gupta-svg/Blinkit-Sales-Delivery-Analytics)
 
-[View Blinkit Power BI Project](https://github.com/ditya0101gupta-svg/Blinkit-Sales-Delivery-Analytics)
+---
+
+#### 📦 Olist E-Commerce Analytics | MySQL & Power BI
+
+Developed an end-to-end Brazilian e-commerce analytics project using MySQL and Power BI to analyze sales, customer behavior, product performance, and delivery operations.
+
+**Key Highlights:**
+- Total Sales: R$13.59M
+- Total Orders: 99K
+- Total Customers: 96K
+- SQL-based data analysis and Power BI visualization
+
+[View Olist Project](https://github.com/ditya0101gupta-svg/Olist-Ecommerce-Analytics)
+
+---
+
+#### 📊 Flipkart Sales Intelligence Dashboard | Microsoft Excel
+
+Built an Excel sales intelligence dashboard analyzing revenue, profitability, category performance, regional contribution, and sales channels across 1,000 transactions.
+
+**Key Highlights:**
+- Net Sales: ₹17M
+- Total Profit: ₹5M
+- Profit Margin: 31.1%
+- Year-on-year sales and channel performance analysis
+
+[View Flipkart Project](https://github.com/ditya0101gupta-svg/Flipkart-Sales-Intelligence-Dashboard)
+
+---
+
+🌐 **Portfolio Website:** [Explore My Data Analytics Portfolio](https://ditya0101gupta-svg.github.io/data-analytics-portfolio/)
+
 
 ### 📚 Currently Learning
 

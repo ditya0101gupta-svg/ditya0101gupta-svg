@@ -8,6 +8,8 @@ I enjoy building real-world analytics projects, exploring datasets, and developi
 
 ### 🛠️ Technical Skills
 
+**Spreadsheet Analytics:** Microsoft Excel, Excel Formulas, Data Visualization, Dashboard Development
+
 **Programming:** Python, SQL
 
 **Data Analytics:** Pandas, NumPy, Exploratory Data Analysis

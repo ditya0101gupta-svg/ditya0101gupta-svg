@@ -107,4 +107,11 @@ Data Analytics | Business Intelligence | Data Science | Machine Learning
 
 ### 📂 More Projects Coming Soon
 
-Building a portfolio of practical projects involving SQL, Python, Power BI, and data-driven problem solving.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ditya0101gupta-svg&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ditya0101gupta-svg&layout=compact&theme=github_dark&hide_border=true)

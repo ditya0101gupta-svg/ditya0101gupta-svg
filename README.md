@@ -2,9 +2,13 @@
 
 ## Aspiring Data Analyst | Python • SQL • Power BI
 
-I'm passionate about transforming raw data into meaningful insights through data analysis, visualization, and business intelligence.
+I'm an aspiring Data Analyst with hands-on experience in **SQL, Python, Excel, and Power BI**, focused on transforming raw data into actionable business insights.
 
-I enjoy building real-world analytics projects, exploring datasets, and developing practical solutions using modern data tools.
+I've developed end-to-end analytics projects across **banking, e-commerce, retail, and delivery operations**, including interactive dashboards, SQL-based analysis, data cleaning, and KPI reporting.
+
+**Portfolio Highlights:** 4 Analytics Projects | 10K Banking Customers Analyzed | 99K E-Commerce Orders Analyzed
+
+🎯 **Current Focus:** Advanced SQL, Python Analytics, Business Intelligence, and Machine Learning Fundamentals.
 
 ### 🛠️ Technical Skills
 

@@ -68,6 +68,24 @@ Built an Excel sales intelligence dashboard analyzing revenue, profitability, ca
 
 ---
 
+
+### 🏦 Banking Customer Churn Analytics | MySQL & Power BI
+
+Developed an end-to-end banking customer churn analytics project using MySQL and Power BI. Analyzed 10,000 customer records to identify churn patterns across demographics, geography, banking products, and customer activity.
+
+**Key Highlights:**
+- Total Customers: 10,000
+- Churned Customers: 2,038
+- Overall Churn Rate: 20.38%
+- Germany recorded the highest churn rate at 32.44%
+- Built a six-page interactive Power BI dashboard
+- Performed SQL-based customer segmentation and churn analysis
+
+[View Banking Customer Churn Project](https://github.com/ditya0101gupta-svg/Banking-Customer-Churn-Analytics)
+
+---
+
+
 🌐 **Portfolio Website:** [Explore My Data Analytics Portfolio](https://ditya0101gupta-svg.github.io/data-analytics-portfolio/)
 
 
